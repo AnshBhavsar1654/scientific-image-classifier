@@ -6,7 +6,7 @@ This repository contains a deep learning model implemented in Python using Tenso
 Dataset:
 The dataset consists of images categorized into four subdirectories, namely Microscopy, BlotGel, FACS, and Macroscopy. To ensure a balanced dataset, Synthetic Minority Over-sampling Technique (SMOTE) is applied to handle class imbalances. This is a sample of the originally provided dataset.
 This is a link to the sample dataset uploaded on kaggle
-https://www.kaggle.com/datasets/anshbhavsar/biofors2
+1) https://www.kaggle.com/datasets/anshbhavsar/biofors2 2) https://www.kaggle.com/datasets/anshbhavsar/biofors-test
 
 Model Architecture:
 The deep learning model architecture consists of the following layers:
