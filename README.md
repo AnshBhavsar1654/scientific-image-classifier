@@ -1,10 +1,10 @@
 # scientific-image-classifier
 
-Scientific Image Classification using Deep Learning
+Scientific Image Classification using Deep Learning:
 This repository contains a deep learning model implemented in Python using TensorFlow and Keras to classify biological images into four different types: Microscopy, BlotGel, FACS, and Macroscopy. The model is trained on a dataset named Biofors2, and it utilizes the DenseNet121 architecture pre-trained on ImageNet for feature extraction.
 
 Dataset:
-The dataset consists of images categorized into four subdirectories, namely Microscopy, BlotGel, FACS, and Macroscopy. To ensure a balanced dataset, Synthetic Minority Over-sampling Technique (SMOTE) is applied to handle class imbalances.
+The dataset consists of images categorized into four subdirectories, namely Microscopy, BlotGel, FACS, and Macroscopy. To ensure a balanced dataset, Synthetic Minority Over-sampling Technique (SMOTE) is applied to handle class imbalances. This is a sample of the originally provided dataset.
 
 Model Architecture:
 The deep learning model architecture consists of the following layers:
